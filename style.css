@@ -1,0 +1,66 @@
+/* Reset default browser styles
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #3b5998;
+  color: #fff;
+  padding: 10px 0;
+}
+
+header .logo img {
+  height: 40px;
+  vertical-align: middle;
+}
+
+header .search input {
+  padding: 8px;
+  border-radius: 20px;
+  border: none;
+  width: 300px;
+}
+
+header .navigation ul {
+  list-style: none;
+}
+
+header .navigation ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+header .navigation ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.content {
+  padding: 20px 0;
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+}
+
+.feed {
+  width: 75%;
+  float: right;
+}
+
+footer {
+  background-color: #f0f2f5;
+  padding: 10px 0;
+  text-align: center;
+}
+.th{
+  text-align: center;
+} */
+/* Reset default margin and padding */
